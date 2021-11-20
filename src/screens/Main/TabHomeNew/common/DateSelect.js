@@ -1,7 +1,4 @@
-/*
- * @Descripttion:我的-->账单-->日期选择
- * @Author: ZhangShilei
- */
+
 import React from 'react';
 import {
     View,

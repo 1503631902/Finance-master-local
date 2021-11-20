@@ -1,7 +1,4 @@
-/**
- * 首页主推位
- * created by zhangwx 20190618
- */
+
 import React, { Component } from 'react';
 import { StyleSheet, View, PanResponder, Image, Text } from 'react-native';
 import Images from '../../../../image';

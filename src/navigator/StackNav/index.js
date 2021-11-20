@@ -1,11 +1,3 @@
-/*
- * @Author: zhangcx01
- * @Date: 2020-08-01 18:47:11
- * @LastEditTime: 2020-08-06 23:31:33
- * @LastEditors: zcx4150@gmail.com
- * @Description:
- * @FilePath: /lvsejunying/src/navigator/StackNav/index.js
- */
 
 import React, { Component } from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
@@ -23,7 +15,7 @@ import MineTaxPreference from '../../screens/Main/TabMine/MineScreen/MineTaxPref
 import MineIdentityInfo from '../../screens/Main/TabMine/MineScreen/MineIdentityInfo';
 import MineLogInScreen from '../../screens/Main/TabMine/MineScreen/MineLogInScreen';
 import PublicServerScreen from '../../screens/Main/TabHomeNew/MySearchScreen/PublicServerScreen';
-                
+
 
 const Stack = createStackNavigator();
 

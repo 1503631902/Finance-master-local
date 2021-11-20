@@ -1,11 +1,4 @@
-/*
- * @Author: zhangcx01
- * @Date: 2020-08-01 21:35:33
- * @LastEditTime: 2020-08-07 00:02:41
- * @LastEditors: zcx4150@gmail.com
- * @Description:
- * @FilePath: /lvsejunying/src/navigator/TabNav/index.js
- */
+
 import React from 'react';
 import { Image, StyleSheet, DeviceEventEmitter } from 'react-native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';

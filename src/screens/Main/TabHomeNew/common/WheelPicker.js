@@ -1,7 +1,4 @@
-/*
- * @Descripttion: 滚轮组件
- * @Author: ZhangShilei
- */
+
 import React from 'react';
 import {
     StyleSheet,
